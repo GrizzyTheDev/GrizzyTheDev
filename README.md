@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Eric Hudson
+## 👋 Olá, me chamo Eric Hudson
 - 👀 Atualmente interessado em aprender mais sobre as frameworks de front-end
 - 🌱 Atualmente estou no ínicio, estudando o Javascript, HTML e CSS
 - 💞️ Buscando colaborar com o que estou aprendendo, e buscando aprimorar meus conhecimentos enquanto colaboro. 
@@ -21,8 +21,6 @@
   <div>
   <a href="https://www.linkedin.com/in/eric-hudson-santos-505b33a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:grizzythedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+ </div>
   
