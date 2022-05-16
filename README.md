@@ -4,6 +4,9 @@
 - 💞️ Buscando colaborar com o que estou aprendendo, e buscando aprimorar meus conhecimentos enquanto colaboro. 
 - 📧 Você pode me contatar pelo email GrizzyTheDev@gmail.com
 
+Watch my progress at Alura 
+https://cursos.alura.com.br/user/ehuderic
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Grizzy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
